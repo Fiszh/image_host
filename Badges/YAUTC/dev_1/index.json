@@ -1,0 +1,9 @@
+{
+    "static": {
+        "4x": "dev_1_4x.png",
+        "3x": "dev_1_3x.png",
+        "2x": "dev_1_2x.png",
+        "1x": "dev_1_1x.png"
+    },
+    "animated": {}
+}

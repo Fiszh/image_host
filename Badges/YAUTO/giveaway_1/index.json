@@ -1,0 +1,14 @@
+{
+    "static": {
+        "4x": "static\\giveaway_1_4x_static.png",
+        "3x": "static\\giveaway_1_3x_static.png",
+        "2x": "static\\giveaway_1_2x_static.png",
+        "1x": "static\\giveaway_1_1x_static.png"
+    },
+    "animated": {
+        "4x": "animated\\giveaway_1_4x.gif",
+        "3x": "animated\\giveaway_1_3x.gif",
+        "2x": "animated\\giveaway_1_2x.gif",
+        "1x": "animated\\giveaway_1_1x.gif"
+    }
+}
